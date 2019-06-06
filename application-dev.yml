@@ -1,2 +1,2 @@
 registry:
-  url: hhh
+  url: http://172.16.34.156:9090/eureka/
